@@ -102,7 +102,6 @@
     <Compile Include="Entity.cs" />
     <Compile Include="Graphics.cs" />
     <Compile Include="Input.cs" />
-    <Compile Include="Particle.cs" />
     <Compile Include="Sound.cs" />
     <Compile Include="Sprite.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -26,7 +26,7 @@ namespace Wrack
             Enabled = false;
         }
 
-        public virtual void MakeDynamic()
+        public virtual void MakeDynamic()     
         {
             Enabled = true;
             BodyType = BodyType.Dynamic;
