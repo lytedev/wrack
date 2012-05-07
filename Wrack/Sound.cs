@@ -3,7 +3,7 @@
 using Microsoft.Xna.Framework.Audio;
 using Microsoft.Xna.Framework.Media;
 
-namespace Wrack
+namespace WrackEngine
 {
     public static class Sound
     {
